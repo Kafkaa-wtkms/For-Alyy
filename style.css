@@ -38,7 +38,7 @@ html, body {
    PAGE 1 UI
 ========================================== */
 #page1 {
-    background: linear-gradient(180deg, #1d0a29 0%, #180220 55%, #0d0115 100%);
+    background: linear-gradient(180deg, #082714 0%, #011808 55%, #000702 100%);
 }
 
 .question-box {
@@ -76,7 +76,7 @@ button {
 
 #yesBtn {
     color: white;
-    background: linear-gradient(135deg, #b56cff, #8b5cf6);
+    background: linear-gradient(135deg, #b983f0, #8559ee);
     z-index: 10;
 }
 
