@@ -23,13 +23,13 @@ const TRIGGER_DISTANCE = 140;
 
 const noTexts = [
     "No",
-    "Are you sure?",
-    "Really?",
+    "Serius??",
+    "Really???",
     "Please?",
     "plss sunda",
     "🥺",
     "kok gitu??",
-    "bwoop",
+    "bwooooop",
     "plsplsplss",
 ];
 

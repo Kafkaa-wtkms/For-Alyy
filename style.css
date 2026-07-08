@@ -384,3 +384,16 @@ button {
         padding: 30px 20px;
     }
 }
+
+h2 {
+    font-family: 'EB Garamond', serif;
+    font-weight: 650; /* Ketebalan medium-bold */
+    font-size: 30px;  
+}
+
+p {
+    font-family: 'EB Garamond', serif;
+    font-weight: 450; /* Sedikit dinaikkan biar lebih tebal dan jelas dibaca */
+    font-size: 25px;  /* Sedikit diperbesar biar makin nyaman di mata */
+    line-height: 1.6; /* Jarak antar baris biar gak pusing bacanya */
+}
